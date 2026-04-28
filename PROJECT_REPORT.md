@@ -12,8 +12,7 @@ The app idea is simple: a user can create habits (for example, "Read 20 minutes"
 
 I selected this idea for three reasons:
 1. It solves a real and common daily problem.
-2. It is not too big, so it is realistic for an individual project.
-3. It still allows me to demonstrate many required mobile concepts.
+2. It still allows me to demonstrate many required mobile concepts.
 
 The main user flow is:
 1. Open app.
@@ -201,7 +200,4 @@ If I continue this app in the future, I would add:
 
 Overall, I achieved the project objectives and built a working Habit Tracker application that solves a practical daily problem.
 
-## 9. GitHub Information
-- **GitHub Username:** `NBYTesdevelopper`
-- **Repository Link:** [https://github.com/NBYTesdevelopper/HabitTracker](https://github.com/NBYTesdevelopper/HabitTracker)
-- **Project Status:** Published and pushed with full source code.
+
