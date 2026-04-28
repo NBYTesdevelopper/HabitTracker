@@ -47,10 +47,3 @@ A simple mobile Habit Tracker project for coursework. The app demonstrates:
 5. Run the app:
    - `flutter run -d windows` (or another available device)
 
-## Suggested Screenshots for Your Printed Report
-
-1. Home page (empty state)
-2. Add Habit form
-3. Home page with several habits
-4. Habit marked complete for today
-5. Stats page
